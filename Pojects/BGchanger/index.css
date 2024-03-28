@@ -1,0 +1,29 @@
+body {
+  background-color: aqua;
+}
+
+.btn-bar {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.btn {
+  height: 50px;
+  width: 50px;
+  color: white;
+  margin: 10px;
+}
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  color: black;
+  background-color: yellow;
+}
